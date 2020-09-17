@@ -1,0 +1,7 @@
+{
+	"name": "acme-app",
+	"private": true,
+	"dependencies": {
+		"lib-ui": "workspace:*"
+	}
+}
